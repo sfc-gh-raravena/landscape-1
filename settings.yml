@@ -17,7 +17,7 @@ foundation: PyTorch
 #
 # url: <LANDSCAPE_URL>
 #
-url: http://127.0.0.1:8000
+url: https://pytorch.landscape2.io
 
 # Analytics (optional)
 #
@@ -131,19 +131,19 @@ featured_items:
 #
 footer:
   links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-    flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
+    facebook: "https://www.facebook.com/pytorch/"
+    flickr: "https://www.flickr.com/photos/197037482@N07/"
+    github: "https://github.com/pytorch"
+    homepage: "https://pytorch.org"
+    instagram: "https://www.instagram.com/explore/topics/544607530052970/pytorch/"
+    linkedin: "https://www.linkedin.com/company/pytorch/"
+    slack: "https://pytorch.slack.com/"
+    twitter: "https://twitter.com/pytorch"
+    discussions: "https://discuss.pytorch.org/"
+    youtube: "https://www.youtube.com/pytorch"
   #logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
-  logo: "https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg"
+  #logo: "https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
 # Grid items size (optional)
 #
 # Defines the preferred size of the landscape items in the grid mode. When the
@@ -189,7 +189,7 @@ groups:
 #
 header:
   links:
-    github: "https://github.com/cncf/landscape2"
+    github: "https://github.com/pytorch/landscape"
   #logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
   logo: "https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg"
 
