@@ -32,9 +32,9 @@ Please see [landscape.PyTorch.io](https://landscape.pytorch.io).
 
 
 ## Corrections and vulnerability-reporting
-*Please open an [issue](https://github.com/pytorch/landscape/issues/new) or, for sensitive information, email  to support@pytorch.org.  
+* Please open an [issue](https://github.com/pytorch/landscape/issues/new) or, for sensitive information, email  to support@pytorch.org.  
 
-*If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
+* If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
 
 ## External Data
 
