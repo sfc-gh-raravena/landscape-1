@@ -15,7 +15,7 @@ This landscape is intended as a map to explore the projects in the PyTorch Found
 
 ## Current Version
 
-[PyTorch Landscape](https://landscape.pytorch.io/images/landscape.png)](https://landscape.pytorch.io/images/landscape.png)
+[PyTorch Landscape](https://landscape.pytorch.io/images/landscape.png)
 
 ## Interactive Version
 
