@@ -13,13 +13,9 @@
 
 This landscape is intended as a map to explore the projects in the PyTorch Foundation Ecosystem. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
-## Current Version
-
-[PyTorch Landscape](https://landscape.pytorch.io/images/landscape.png)
-
 ## Interactive Version
 
-Please see [landscape.PyTorch.io](https://pytorch.landscape2.io/)
+Please see [pytorch.landscape2.io](https://pytorch.landscape2.io/)
 
 ## New Entries
 
@@ -57,11 +53,5 @@ This repository contains data received from [Crunchbase](http://www.crunchbase.c
 
 Everything else is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The trail map, static landscape, serverless landscape, and [landscape.yml](landscape.yml) file are alternatively available under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-## Formats
-
-The PyTorch Landscape is available in these formats:
-
-* [PNG](https://landscape.pytorch.io/images/landscape.png)
-* [PDF](https://landscape.pytorch.io/images/landscape.pdf)
 
 
