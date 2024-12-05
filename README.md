@@ -3,13 +3,11 @@
 ![P Landscape Logo](https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg)
 
 - [PyTorch Landscape](#pytorch-foundation-landscape)
-  * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
   * [Corrections and vulnerability-reporting](#Corrections-and-vulnerability-reporting)
   * [Non-Updated Items](#non-updated-items)
   * [License](#license)
-  * [Formats](#formats)
 
 This landscape is intended as a map to explore the projects in the PyTorch Foundation Ecosystem. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
