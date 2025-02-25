@@ -73,7 +73,7 @@ landscape:
             name: torchvision
             description: The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
             homepage_url: https://pytorch.org/vision/stable/index.html
-            logo: torchvision.svg
+            logo: PyTorch_Project_torchvision.svg
             repo_url: https://github.com/pytorch/vision
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -143,14 +143,14 @@ landscape:
             name: torchtune
             description: A Native-PyTorch library for LLM fine-tuning.
             homepage_url: https://pytorch.org/torchtune/stable/index.html
-            logo: torchtune.svg
+            logo: PyTorch_Project_torchtune.svg
             repo_url: https://github.com/pytorch/torchtune
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: torchtext
             description: The torchtext package consists of data processing utilities and popular datasets for natural language.
             homepage_url: https://pytorch.org/text/stable/index.html
-            logo: torchtext.svg
+            logo: PyTorch_Project_torchtext.svg
             repo_url: https://github.com/pytorch/text
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -728,6 +728,14 @@ landscape:
             homepage_url: https://torchopt.readthedocs.io/en/latest/
             logo: TorchOpt.svg
             repo_url: https://github.com/metaopt/TorchOpt
+            crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
+            name: TorchServe
+            description: TorchServe is a performant, flexible and easy to use tool for serving PyTorch models in production.
+            homepage_url: https://github.com/pytorch/serve
+            logo: PyTorch_Project_torchserve.svg
+            repo_url: https://github.com/pytorch/serve
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Zeus
             description: Zeus is a library for measuring the energy consumption of Deep Learning workloads and optimizing their energy consumption.
@@ -793,7 +801,7 @@ landscape:
             name: PyTorchXLA
             description: PyTorch runs on XLA devices, like TPUs, with the torch_xla package. 
             homepage_url: https://pytorch.org/xla/release/2.1/index.html
-            logo: pytorchxla.svg
+            logo: PyTorch_Project_xla.svg
             repo_url: https://github.com/pytorch/xla
             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
