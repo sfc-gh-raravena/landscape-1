@@ -213,7 +213,7 @@ landscape:
             name: torchaudio
             description: Torchaudio is a library for audio and signal processing with PyTorch. It provides I/O, signal and data processing functions, datasets, model implementations and application components.
             homepage_url: https://pytorch.org/audio/stable/index.html
-            logo: torchaudio.svg
+            logo: PyTorch_Project_torchaudio.svg
             repo_url: https://github.com/pytorch/audio
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -705,7 +705,7 @@ landscape:
             name: torcharrow
             description: TorchArrow is a torch.Tensor-like Python DataFrame library for data preprocessing in deep learning. It supports multiple execution runtimes and Arrow as a common format.
             homepage_url: https://pytorch.org/torcharrow/beta/index.html
-            logo: torcharrow.svg
+            logo: PyTorch_Project_torcharrow.svg
             repo_url: https://github.com/pytorch/torcharrow
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -719,7 +719,7 @@ landscape:
             name: torchao
             description: PyTorch library for custom data types & optimizations. Quantize and sparsify weights, gradients, optimizers & activations for inference and training.
             homepage_url: https://pytorch.org/blog/pytorch-native-architecture-optimization/
-            logo: torchao.svg
+            logo: PyTorch_Project_torchao.svg
             repo_url: https://github.com/pytorch/ao
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
