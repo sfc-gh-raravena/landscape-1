@@ -21,11 +21,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Detectron2
-            description: is a platform for object detection, segmentation and other visual recognition tasks.
+            description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
             homepage_url: https://detectron2.readthedocs.io/en/latest/
             logo: detectron2.svg
             repo_url: https://github.com/facebookresearch/detectron2
             crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
+            name: docTR
+            description: A high-performing and accessible library for OCR related tasks powered by PyTorch and TensorFlow 2.
+            homepage_url: https://mindee.github.io/doctr/
+            logo: doctr.svg
+            repo_url: https://github.com/mindee/doctr
+            crunchbase: https://www.crunchbase.com/organization/mindee
           - item:
             name: Kornia
             description: Kornia is a geometric computer vision Library for spatial AI library that allows classical computer vision to be integrated into deep learning models.
