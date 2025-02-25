@@ -220,7 +220,7 @@ landscape:
             name: torchrec
             description: TorchRec is a specialized library within the PyTorch ecosystem, tailored for building, scaling, and deploying large-scale recommendation systems,
             homepage_url: https://pytorch.org/torchrec/
-            logo: torchrec.svg
+            logo: PyTorch_Project_torchrec.svg
             repo_url: https://github.com/pytorch/torchrec
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -375,7 +375,7 @@ landscape:
             name: torchrl
             description: TorchRL is an open-source Reinforcement Learning (RL) library for PyTorch.
             homepage_url: https://pytorch.org/rl/stable/index.html
-            logo: torchrl.svg
+            logo: PyTorch_Project_torchrl.svg
             repo_url: https://github.com/pytorch/rl
             crunchbase: https://www.crunchbase.com/organization/facebook
   - category:
@@ -474,7 +474,7 @@ landscape:
             name: torchdata
             description: A Beta library of common modular data loading primitives for easily constructing flexible and performant data pipelines. 
             homepage_url: https://pytorch.org/data/beta/index.html
-            logo: torchdata.svg
+            logo: PyTorch_Project_torchdata.svg
             repo_url: https://github.com/pytorch/data
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
