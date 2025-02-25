@@ -661,6 +661,20 @@ landscape:
             repo_url: https://github.com/arogozhnikov/einops
             crunchbase: https://www.crunchbase.com/organization/chai-discovery
           - item:
+            name: vLLM
+            description: vLLM is a fast and easy-to-use library for LLM inference and serving.
+            homepage_url: https://github.com/vllm-project/vllm
+            logo: vllm.svg
+            repo_url: https://github.com/vllm-project/vllm
+            crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
+          - item:
+            name:SGLang
+            description: SGLang is a fast serving framework for large language models and vision language models.
+            homepage_url: https://docs.sglang.ai/
+            logo: sgl_logo.svg
+            repo_url: https://github.com/sgl-project/sglang
+            crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
+          - item:
             name: higher
             description: higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps. 
             homepage_url: https://higher.readthedocs.io/en/latest/.
