@@ -39,12 +39,14 @@ landscape:
             homepage_url: https://kornia.github.io/
             logo: kornia_banner_pixie.svg
             repo_url: https://github.com/kornia/kornia
+            crunchbase: https://www.crunchbase.com/organization/computer-vision-center
           - item:
             name: Lightly
             description: LightlySSL is a computer vision framework for self-supervised learning.
             homepage_url: https://docs.lightly.ai/self-supervised-learning/
             logo: lightly_SSL_logo_crop_white_text.svg
             repo_url: https://github.com/lightly-ai/lightly
+            crunchbase: https://www.crunchbase.com/organization/mirage
           - item:
             name: MMEditing
             description: Image and Video Restoration, Editing and Generation Toolbox
