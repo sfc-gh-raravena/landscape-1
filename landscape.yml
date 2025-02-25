@@ -74,6 +74,7 @@ landscape:
             homepage_url: https://docs.rastervision.io/
             logo: raster-vision.svg
             repo_url: https://github.com/azavea/raster-vision
+            crunchbase: https://www.crunchbase.com/organization/azavea
           - item:
             name: torchvision
             description: The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
