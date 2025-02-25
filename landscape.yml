@@ -712,7 +712,7 @@ landscape:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
             homepage_url: https://pytorch.org/tensordict/stable/index.html
-            logo: tensordict.svg
+            logo: PyTorch_Project_tensordict.svg
             repo_url: https://github.com/pytorch/tensordict
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
