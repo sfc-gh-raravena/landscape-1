@@ -53,18 +53,21 @@ landscape:
             homepage_url: https://mmagic.readthedocs.io/en/latest/
             logo: mmediting.svg
             repo_url: https://github.com/open-mmlab/mmediting
+            crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
           - item:
             name: OpenMMLab
             description: Open-source computer vision algorithms and models.
             homepage_url: https://openmmlab.com/
             logo: openmmlab.svg
             repo_url: https://github.com/open-mmlab
+            crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
           - item:
             name: pystiche
             description: Framework for Neural Style Transfer (NST) built upon PyTorch
             homepage_url: https://github.com/pystiche/pystiche
             logo: pystiche.svg
             repo_url: https://github.com/pystiche/pystiche
+            crunchbase: https://www.crunchbase.com/organization/quansight
           - item:
             name: raster-vision
             description: Raster Vision is an open source library and framework for Python developers building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). There is built-in support for chip classification, object detection, and semantic segmentation using PyTorch.
