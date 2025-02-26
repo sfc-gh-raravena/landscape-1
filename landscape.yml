@@ -674,7 +674,7 @@ landscape:
             repo_url: https://github.com/vllm-project/vllm
             crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
           - item:
-            name:SGLang
+            name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
             homepage_url: https://docs.sglang.ai/
             logo: sgl_logo.svg
