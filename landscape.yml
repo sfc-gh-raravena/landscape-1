@@ -52,6 +52,7 @@ landscape:
             description: Image and Video Restoration, Editing and Generation Toolbox
             homepage_url: https://mmagic.readthedocs.io/en/latest/
             logo: mmediting.svg
+            project: archived
             repo_url: https://github.com/open-mmlab/mmediting
             crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
           - item:
@@ -66,6 +67,7 @@ landscape:
             description: Framework for Neural Style Transfer (NST) built upon PyTorch
             homepage_url: https://github.com/pystiche/pystiche
             logo: pystiche.svg
+            project: archived
             repo_url: https://github.com/pystiche/pystiche
             crunchbase: https://www.crunchbase.com/organization/quansight
           - item:
@@ -87,6 +89,7 @@ landscape:
             description: A library for state-of-the-art self-supervised learning from images
             homepage_url: https://vissl.ai/
             logo: vissl.svg
+            project: archived
             repo_url: https://github.com/facebookresearch/vissl/graphs/commit-activity
             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
@@ -97,15 +100,9 @@ landscape:
             description: An NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
             homepage_url: https://allenai.org/allennlp
             logo: AllenNLP.svg
+            project: archived
             repo_url: https://github.com/allenai/allennlp
             crunchbase: https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence
-          - item:
-            name: Colossal-LLaMA-2
-            description: This project is no longer available
-            homepage_url: https://www.colossalai.org/
-            logo: collasalllama.svg
-            repo_url:  https://github.com/hpcaitech/ColossalAI/tree/main/applications/Colossal-LLaMA-2 
-            crunchbase: https://www.crunchbase.com/organization/hpc-ai-technology
           - item:
             name: Flair
             description: Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical texts, sense disambiguation and classification, with support for a rapidly growing number of languages
@@ -126,11 +123,13 @@ landscape:
             homepage_url: https://opencompass.org.cn/home
             logo: opencompass.svg
             repo_url: https://github.com/open-compass/opencompass
+            crunchbase: https://www.crunchbase.com/organization/openailab
           - item:
-            name: ParIAI
+            name: ParlAI
             description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
             homepage_url: https://parl.ai/
             logo: parlai.svg
+            project: archived
             repo_url: https://github.com/facebookresearch/ParlAI
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -138,13 +137,17 @@ landscape:
             description: Basic Utilities for PyTorch Natural Language Processing (NLP)
             homepage_url: https://pytorchnlp.readthedocs.io/en/latest/
             logo: PyTorch_NLP.svg
+            project: archived
             repo_url: https://github.com/PetrochukM/PyTorch-NLP
+            crunchbase: https://www.crunchbase.com/organization/wellsaid-labs
           - item:
             name: TextBrewer
             description: A PyTorch-based knowledge distillation toolkit for natural language processing
             homepage_url: http://textbrewer.hfl-rc.com/
             logo: TextBrewer.svg
+            project: archived
             repo_url: https://github.com/airaria/TextBrewer
+            crunchbase: https://www.crunchbase.com/organization/cognitive-labs
           - item:
             name: torchtune
             description: A Native-PyTorch library for LLM fine-tuning.
@@ -188,7 +191,9 @@ landscape:
             description: A python library with functionality for the development and training of learned prediction, planning and simulation models for autonomous driving applications.
             homepage_url: https://woven-planet.github.io/l5kit/
             logo: logo_l5kit_wp.svg
+            project: archived
             repo_url: https://github.com/woven-planet/l5kit
+            crunchbase: https://www.crunchbase.com/organization/lyft
           - item:
             name: PyPose
             description: PyPose is a library for Robot Learning with Physics-based Optimization
