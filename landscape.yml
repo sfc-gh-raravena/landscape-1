@@ -509,7 +509,6 @@ landscape:
             homepage_url: https://yoshitomo-matsubara.net/torchdistill/
             logo: torchdistill.svg
             repo_url: https://github.com/yoshitomo-matsubara/torchdistill
-            crunchbase: https://www.crunchbase.com/organization/yahoo
           - item:
             name: torchdata
             description: A Beta library of common modular data loading primitives for easily constructing flexible and performant data pipelines. 
