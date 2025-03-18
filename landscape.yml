@@ -947,3 +947,183 @@ landscape:
             logo: HOROVOD.svg
             repo_url: https://github.com/horovod/horovod
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+  - category:
+    name: PyTorch Members
+    subcategories:
+      - subcategory:
+        name: Premier
+        items:
+          - item:
+            name: AMD (member)
+            homepage_url: https://amd.com/
+            logo: amd.svg
+            crunchbase: https://www.crunchbase.com/organization/amd
+            joined: '2024-01-01'
+          - item:
+            name: arm (member)
+            homepage_url: https://www.arm.com/
+            logo: arm.svg
+            crunchbase: https://www.crunchbase.com/organization/arm
+            joined: '2024-01-01'
+          - item:
+            name: AWS (member)
+            homepage_url: https://aws.amazon.com/
+            logo: aws.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            joined: '2024-01-01'
+          - item:
+            name: Google Cloud (member)
+            homepage_url: https://cloud.google.com/gcp
+            logo: google-cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/google-cloud
+            joined: '2024-01-01'
+          - item:
+            name: Huawei (member)
+            homepage_url: https://www.huawei.com/
+            logo: huawei.svg
+            crunchbase: https://www.crunchbase.com/organization/huawei
+            joined: '2024-01-01'
+          - item:
+            name: Hugging Face (member)
+            homepage_url: https://huggingface.co/
+            logo: hugging-face.svg
+            crunchbase: https://www.crunchbase.com/organization/hugging-face
+            joined: '2024-01-01'
+          - item:
+            name: IBM (member)
+            homepage_url: https://www.ibm.com/
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+            joined: '2024-01-01'
+          - item:
+            name: Intel (member)
+            homepage_url: https://www.intel.com/
+            logo: intel.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+            joined: '2024-01-01'
+          - item:
+            name: Lightning AI (member)
+            homepage_url: https://lightning.ai/
+            logo: lightning.png
+            crunchbase: https://www.crunchbase.com/organization/grid-ai
+            joined: '2024-01-01'
+          - item:
+            name: Meta (member)
+            homepage_url: https://meta.com/
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            joined: '2024-01-01'
+          - item:
+            name: Microsoft Azure (member)
+            homepage_url: https://azure.microsoft.com/
+            logo: microsoft-azure.svg
+            crunchbase: https://www.crunchbase.com/organization/azure
+            joined: '2024-01-01'
+          - item:
+            name: NVIDIA (member)
+            homepage_url: https://www.nvidia.com/en-us/ai-data-science/
+            logo: nvidia.svg
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+            joined: '2024-01-01'
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Graphcore (member)
+            homepage_url: https://www.graphcore.ai/
+            logo: graphcore.svg
+            crunchbase: https://www.crunchbase.com/organization/graphcore
+            joined: '2024-01-01'
+          - item:
+            name: Rebellions (member)
+            homepage_url: https://rebellions.ai/
+            logo: rebellions.svg
+            crunchbase: https://www.crunchbase.com/organization/rebellions-ai
+            joined: '2024-01-01'
+          - item:
+            name: Snowflake (member)
+            homepage_url: https://snowflake.com/
+            logo: snowflake.svg
+            crunchbase: https://www.crunchbase.com/organization/snowflake
+            joined: '2024-01-01'
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: Bayero University Kano (member)
+            homepage_url: https://buk.edu.ng/home
+            logo: bayero.svg
+            crunchbase: https://www.crunchbase.com/organization/bayero-university-kano
+            joined: '2024-01-01'
+          - item:
+            name: Beijing Academy of Artificial Intelligence (member)
+            homepage_url: https://baai.ac.cn/
+            logo: baai.svg
+            crunchbase: https://www.crunchbase.com/organization/baai
+            joined: '2024-01-01'
+          - item:
+            name: Columbia University (member)
+            homepage_url: https://www.columbia.edu/
+            logo: columbia-university.svg
+            crunchbase: https://www.crunchbase.com/organization/columbia-university
+            joined: '2024-01-01'
+          - item:
+            name: Common Crawl (member)
+            homepage_url: https://commoncrawl.org/
+            logo: common-crawl.svg
+            crunchbase: https://www.crunchbase.com/organization/common-crawl
+            joined: '2024-01-01'
+          - item:
+            name: DIARIO OFICIAL DE LA FEDERACIÓN (member)
+            homepage_url: https://www.dof.gob.mx/index.php
+            logo: dodlf.jpg
+            crunchbase: 
+            joined: '2024-01-01'
+          - item:
+            name: Imam Abdulrahman Bin Faisal University (member)
+            homepage_url: https://www.iau.edu.sa/en
+            logo: iabfu.svg
+            crunchbase: 
+            joined: '2024-01-01'
+          - item:
+            name: Indian Institute of Technology Jodhpur (member)
+            homepage_url: https://www.iitj.ac.in/
+            logo: iit.png
+            crunchbase:
+            joined: '2024-01-01'
+          - item:
+            name: onefact.org (member)
+            homepage_url: https://www.onefact.org/
+            logo: onefact.svg
+            crunchbase:
+            joined: '2024-01-01'
+          - item:
+            name: Rensselaer Polytechnic Institute (member)
+            homepage_url: https://www.rpi.edu/
+            logo: rensselaer.png
+            crunchbase: https://www.crunchbase.com/organization/rensselaer-polytechnic-institute
+            joined: '2024-01-01'
+          - item:
+            name: Texas A&M University (member)
+            homepage_url: https://www.tamu.edu/index.html
+            logo: texas-am.svg
+            crunchbase: https://www.crunchbase.com/organization/texas-a-m-university
+            joined: '2024-01-01'
+          - item:
+            name: University of California, Irvine (member)
+            homepage_url: https://uci.edu/
+            logo: university-california.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-irvine
+            joined: '2024-01-01'
+          - item:
+            name: William Carey University (member)
+            homepage_url: https://www.wmcarey.edu/index
+            logo: william-carey.svg
+            crunchbase: https://www.crunchbase.com/organization/william-carey-university-hattiesburg
+            joined: '2024-01-01'
+          - item:
+            name: WEDF (member)
+            homepage_url: https://worldethicaldata.org/
+            logo: wedf.png
+            crunchbase:
+            joined: '2024-01-01'
