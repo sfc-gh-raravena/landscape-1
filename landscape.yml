@@ -1021,10 +1021,12 @@ landscape:
             joined: '2022-07-31'
           - item:
             name: NVIDIA  (member)
+
             homepage_url: https://www.nvidia.com/en-us/ai-data-science/
             logo: nvidia.svg
-            crunchbase: https://www.crunchbase.com/organization/nvidia
             joined: '2022-07-31' 
+            joined: '2022-07-31' 
+
       - subcategory:
         name: General
         items:
